@@ -1,7 +1,7 @@
 # vfence
 ## 我参与建设的一个网站  
 ![](https://i.loli.net/2019/07/20/5d32e40103c6d85332.png)  
-[新知2018](xinzhi2018.github.io)
+[新知2018](https://xinzhi2018.github.io)
 ## 我参与整理的高考复习资料
 [语文病句笔记](https://vfence.github.io/gaokaonote/)
 ## 我的知乎主页
