@@ -1,3 +1,4 @@
+# picoCTF2018_解题报告(部分)
 *初学CTF，发现了picoCTF这个网站，我也是边学习边写了这篇文章，如果有疏漏的地方，还请多多谅解，享受寻找FLAG的乐趣吧。*
 #### Forensics Warmup 1 - Points: 50 
 只需要解压,并根据图片中的内容提交flag
