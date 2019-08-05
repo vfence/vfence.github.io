@@ -1,4 +1,4 @@
-#####初学CTF，发现了picoCTF这个网站，我也是边学习边写了这篇文章，如果有疏漏的地方，还请多多谅解，享受寻找FLAG的乐趣吧。
+*初学CTF，发现了picoCTF这个网站，我也是边学习边写了这篇文章，如果有疏漏的地方，还请多多谅解，享受寻找FLAG的乐趣吧。*
 #### Forensics Warmup 1 - Points: 50 
 只需要解压,并根据图片中的内容提交flag
 ![](http://upload-images.jianshu.io/upload_images/15974891-a5025c2322dda627.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
