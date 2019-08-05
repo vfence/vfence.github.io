@@ -1,11 +1,6 @@
 # vfence
 ## blog  
-[picoCTF2018 解题报告（部分）](picoCTF2018_解题报告(部分).md)  
-[Tarjan学习笔记](Tarjan学习笔记.md)  
-[CodeVS 2598 编辑距离问题题解](CodeVS_2598_编辑距离问题_题解.md)  
-  
-  
-你同样可以选择在简书上进行阅读[vfence-简书](https://www.jianshu.com/u/d498399ab1e0)
+你可以在简书上进行阅读[vfence-简书](https://www.jianshu.com/u/d498399ab1e0)
 ## 我参与建设的一个网站  
 ![](https://i.loli.net/2019/07/20/5d32e40103c6d85332.png)  
 [新知2018](https://xinzhi2018.github.io)
